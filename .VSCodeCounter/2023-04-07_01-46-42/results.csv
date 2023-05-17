@@ -1,0 +1,56 @@
+"filename", "language", "JavaScript", "HTML", "JSON with Comments", "JSON", "Markdown", "JavaScript JSX", "XML", "TypeScript JSX", "CSS", "TypeScript", "comment", "blank", "total"
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/README.md", "Markdown", 0, 0, 0, 0, 48, 0, 0, 0, 0, 0, 0, 35, 83
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/AdCard.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 113, 0, 0, 0, 0, 11, 4, 128
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/AdGrid.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 84, 0, 0, 0, 0, 48, 9, 141
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/Layout.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 3, 13
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/LoginButton.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 33, 0, 0, 0, 0, 14, 3, 50
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/LogoutButton.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 1, 2, 15
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/Navigation.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 67, 0, 0, 0, 0, 0, 5, 72
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/Search.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 7, 5, 18
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/SearchForm.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 48, 0, 0, 0, 0, 15, 4, 67
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/StripePricingTable.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 33, 0, 0, 0, 0, 0, 3, 36
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/TopListVideoCard.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 2, 46
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/VideoCard.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 174, 0, 0, 0, 0, 8, 13, 195
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/VideoList.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 13, 0, 0, 0, 0, 11, 5, 29
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/next.config.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/package-lock.json", "JSON", 0, 0, 0, 10473, 0, 0, 0, 0, 0, 0, 0, 1, 10474
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/package.json", "JSON", 0, 0, 0, 40, 0, 0, 0, 0, 0, 0, 0, 1, 41
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/_app.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 13, 0, 0, 0, 0, 0, 2, 15
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/_document.js", "JavaScript", 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 29
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/auth/[...nextauth].js", "JavaScript", 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 41, 11, 132
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/authMiddleware.js", "JavaScript", 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 14
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/db.js", "JavaScript", 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 8, 104
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/favorites.js", "JavaScript", 97, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 119
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/lib/mongoLogic.js", "JavaScript", 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 6, 27
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/lib/mongodb.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 5, 7, 31
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/restricted.js", "JavaScript", 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 16
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/search.js", "JavaScript", 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 7, 35
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/stripe.js", "JavaScript", 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 27
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/toplist.js", "JavaScript", 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 10, 49
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/user.js", "JavaScript", 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 35
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/video.js", "JavaScript", 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8, 36
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/videos.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 73, 10, 18, 101
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/videos2.js", "JavaScript", 53, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31, 20, 104
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/webhooks/stripe.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 0, 5, 25
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/custom.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 63, 0, 1, 8, 72
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/favorites.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 159, 0, 0, 0, 0, 2, 8, 169
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/index.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 121, 0, 0, 43, 15, 179
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/payment.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 74, 0, 0, 0, 0, 73, 10, 157
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/profile.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 70, 0, 0, 0, 0, 12, 8, 90
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/register.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 18, 0, 0, 0, 0, 1, 5, 24
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/table.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 45, 0, 0, 0, 0, 1, 5, 51
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/toplist.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 4, 48
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/useFetch.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 13
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/videos.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 219, 0, 0, 41, 24, 284
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/videos2.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 233, 0, 0, 8, 25, 266
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/videos3.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 28, 0, 0, 0, 6, 34
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/postcss.config.js", "JavaScript", 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/public/vercel.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 4
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/styles/globals.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 2, 12
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/tailwind.config.js", "JavaScript", 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 16
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/test.html", "HTML", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/test.json", "JSON", 0, 0, 0, 23, 0, 0, 0, 0, 0, 0, 0, 1, 24
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/tsconfig.json", "JSON with Comments", 0, 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 1, 28
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/types/mongodb.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 2, 6
+"/Users/justin/Desktop/Organized/Freelance/adsreveal/test/utils/utils.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"Total", "-", 539, 0, 27, 10536, 48, 1060, 4, 601, 73, 116, 428, 364, 13796

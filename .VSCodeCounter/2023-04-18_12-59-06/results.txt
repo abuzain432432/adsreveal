@@ -1,0 +1,102 @@
+Date : 2023-04-18 12:59:06
+Directory : /Users/justin/Desktop/Organized/Freelance/adsreveal/test
+Total : 56 files,  57571 codes, 427 comments, 385 blanks, all 58383 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          4 |     54,853 |          0 |          3 |     54,856 |
+| JavaScript JSX     |         20 |      1,236 |        173 |        109 |      1,518 |
+| TypeScript JSX     |          3 |        599 |         92 |         67 |        758 |
+| JavaScript         |         18 |        572 |        117 |        118 |        807 |
+| TypeScript         |          5 |        158 |         44 |         41 |        243 |
+| CSS                |          2 |         73 |          1 |         10 |         84 |
+| Markdown           |          1 |         48 |          0 |         35 |         83 |
+| JSON with Comments |          1 |         28 |          0 |          1 |         29 |
+| XML                |          1 |          4 |          0 |          0 |          4 |
+| HTML               |          1 |          0 |          0 |          1 |          1 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                          | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                             |         56 |     57,571 |        427 |        385 |     58,383 |
+| . (Files)                                                                                     |         10 |     54,952 |          2 |         44 |     54,998 |
+| components                                                                                    |         12 |        743 |        115 |         62 |        920 |
+| pages                                                                                         |         30 |      1,857 |        310 |        274 |      2,441 |
+| pages (Files)                                                                                 |         13 |      1,180 |        151 |        126 |      1,457 |
+| pages/api                                                                                     |         17 |        677 |        159 |        148 |        984 |
+| pages/api (Files)                                                                             |         13 |        534 |         80 |        116 |        730 |
+| pages/api/auth                                                                                |          1 |         80 |         41 |         11 |        132 |
+| pages/api/lib                                                                                 |          2 |         43 |          9 |         13 |         65 |
+| pages/api/webhooks                                                                            |          1 |         20 |         29 |          8 |         57 |
+| public                                                                                        |          1 |          4 |          0 |          0 |          4 |
+| styles                                                                                        |          1 |         10 |          0 |          2 |         12 |
+| types                                                                                         |          1 |          4 |          0 |          2 |          6 |
+| utils                                                                                         |          1 |          1 |          0 |          1 |          2 |
++-----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                      | language           | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/DB-DUMP-ADS.json                     | JSON               |     44,260 |          0 |          0 |     44,260 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/README.md                            | Markdown           |         48 |          0 |         35 |         83 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/AdCard.jsx                | JavaScript JSX     |        113 |         11 |          4 |        128 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/AdGrid.jsx                | JavaScript JSX     |         84 |         48 |          9 |        141 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/Layout.jsx                | JavaScript JSX     |         10 |          0 |          3 |         13 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/LoginButton.jsx           | JavaScript JSX     |         33 |         14 |          3 |         50 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/LogoutButton.jsx          | JavaScript JSX     |         12 |          1 |          2 |         15 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/Navigation.jsx            | JavaScript JSX     |        175 |          0 |          9 |        184 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/Search.jsx                | JavaScript JSX     |          6 |          7 |          5 |         18 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/SearchForm.jsx            | JavaScript JSX     |         46 |         15 |          4 |         65 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/StripePricingTable.jsx    | JavaScript JSX     |         33 |          0 |          3 |         36 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/TopListVideoCard.jsx      | JavaScript JSX     |         44 |          0 |          2 |         46 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/VideoCard.jsx             | JavaScript JSX     |        174 |          8 |         13 |        195 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/components/VideoList.jsx             | JavaScript JSX     |         13 |         11 |          5 |         29 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/next.config.js                       | JavaScript         |          5 |          0 |          1 |          6 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/package-lock.json                    | JSON               |     10,528 |          0 |          1 |     10,529 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/package.json                         | JSON               |         42 |          0 |          1 |         43 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/_app.jsx                       | JavaScript JSX     |         13 |          0 |          2 |         15 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/_document.js                   | JavaScript         |         25 |          0 |          4 |         29 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/auth/[...nextauth].js      | JavaScript         |         80 |         41 |         11 |        132 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/authMiddleware.js          | JavaScript         |          9 |          0 |          5 |         14 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/create-checkout-session.js | JavaScript         |         28 |          0 |          4 |         32 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/db.js                      | JavaScript         |         82 |         14 |          8 |        104 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/dump.ts                    | TypeScript         |         26 |          0 |          4 |         30 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/favorites.js               | JavaScript         |         97 |          7 |         15 |        119 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/lib/mongoLogic.js          | JavaScript         |         17 |          4 |          6 |         27 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/lib/mongodb.ts             | TypeScript         |         26 |          5 |          7 |         38 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/referral.js                | JavaScript         |         36 |          1 |          7 |         44 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/restricted.js              | JavaScript         |         15 |          0 |          1 |         16 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/search.js                  | JavaScript         |         19 |          9 |          7 |         35 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/toplist.js                 | JavaScript         |         32 |          7 |         10 |         49 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/user.js                    | JavaScript         |         28 |          0 |          7 |         35 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/video.js                   | JavaScript         |         27 |          1 |          8 |         36 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/videos.ts                  | TypeScript         |         82 |         10 |         20 |        112 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/videos2.js                 | JavaScript         |         53 |         31 |         20 |        104 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/api/webhooks/stripe.ts         | TypeScript         |         20 |         29 |          8 |         57 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/custom.css                     | CSS                |         63 |          1 |          8 |         72 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/favorites.jsx                  | JavaScript JSX     |        160 |          2 |          9 |        171 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/index.tsx                      | TypeScript JSX     |        134 |         43 |         18 |        195 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/payment.jsx                    | JavaScript JSX     |        120 |         52 |         11 |        183 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/profile.jsx                    | JavaScript JSX     |         75 |          0 |          7 |         82 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/register.jsx                   | JavaScript JSX     |         23 |          3 |          5 |         31 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/success.jsx                    | JavaScript JSX     |         13 |          0 |          4 |         17 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/table.jsx                      | JavaScript JSX     |         45 |          1 |          5 |         51 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/toplist.jsx                    | JavaScript JSX     |         44 |          0 |          4 |         48 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/videos.tsx                     | TypeScript JSX     |        219 |         41 |         24 |        284 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/pages/videos2.tsx                    | TypeScript JSX     |        246 |          8 |         25 |        279 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/postcss.config.js                    | JavaScript         |          6 |          0 |          1 |          7 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/public/vercel.svg                    | XML                |          4 |          0 |          0 |          4 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/styles/globals.css                   | CSS                |         10 |          0 |          2 |         12 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/tailwind.config.js                   | JavaScript         |         12 |          2 |          2 |         16 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/test.html                            | HTML               |          0 |          0 |          1 |          1 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/test.json                            | JSON               |         23 |          0 |          1 |         24 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/tsconfig.json                        | JSON with Comments |         28 |          0 |          1 |         29 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/types/mongodb.d.ts                   | TypeScript         |          4 |          0 |          2 |          6 |
+| /Users/justin/Desktop/Organized/Freelance/adsreveal/test/utils/utils.js                       | JavaScript         |          1 |          0 |          1 |          2 |
+| Total                                                                                         |                    |     57,571 |        427 |        385 |     58,383 |
++-----------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
